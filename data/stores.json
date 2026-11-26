@@ -617,8 +617,8 @@
     "closedDays": "",
     "schedule": null,
     "closures": [],
-    "image": "",
-    "imageAlt": "",
+    "image": "assets/ai/thai-basil-rice.jpg",
+    "imageAlt": "泰式打拋飯配煎蛋 AI 示意圖，非店家實拍",
     "gallery": [],
     "lat": 25.0144679,
     "lng": 121.534272,
@@ -636,13 +636,13 @@
     "district": "中正區",
     "phoneSource": "Google Maps",
     "hoursDisplay": "Google Maps 未提供營業時間",
-    "imageGenerated": false,
+    "imageGenerated": true,
     "imageSource": "OpenAI image generation",
     "imageReview": {
       "date": "2026-11-26",
       "source": "https://www.foodpanda.com.tw/restaurant/jqg0/tai-hao-zao-zao-wu-can-jqg0",
-      "note": "早午餐；原吐司炒蛋沙拉組合未確認，撤圖",
-      "status": "withheld"
+      "note": "依使用者提供品項或截圖：泰式打拋飯配煎蛋；圖片為品類示意，非特定款式實拍",
+      "status": "user-confirmed"
     }
   },
   {
@@ -738,8 +738,8 @@
       "6": "10:00-21:00"
     },
     "closures": [],
-    "image": "",
-    "imageAlt": "",
+    "image": "assets/ai/celebration-cake.jpg",
+    "imageAlt": "節慶蛋糕 AI 示意圖，非店家實拍",
     "gallery": [],
     "googleName": "Tower Lucky塔吉節慶蛋糕_永和總店",
     "googlePlaceId": "ChIJGXULbOCpQjQR-42BiFYRIP0",
@@ -756,13 +756,13 @@
     "phoneSource": "Google Maps",
     "hoursDisplay": "星期一 07:30–21:00\n星期二 07:30–21:00\n星期三 07:30–21:00\n星期四 07:30–21:00\n星期五 07:30–21:00\n星期六 10:00–21:00\n星期日 10:00–21:00",
     "branchNote": "地點資料為永和總店；學生優惠適用分店尚待學生會確認。",
-    "imageGenerated": false,
+    "imageGenerated": true,
     "imageSource": "OpenAI image generation",
     "imageReview": {
       "date": "2026-11-26",
       "source": "https://www.towerlucky.com/contact",
-      "note": "官方為烘焙蛋糕店；咖啡配可麗露未確認，撤圖",
-      "status": "withheld"
+      "note": "依使用者提供品項或截圖：節慶蛋糕；圖片為品類示意，非特定款式實拍",
+      "status": "user-confirmed"
     }
   },
   {
