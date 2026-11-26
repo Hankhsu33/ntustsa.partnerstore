@@ -31,8 +31,8 @@
       "6": "11:30-20:15"
     },
     "closures": [],
-    "image": "",
-    "imageAlt": "店家實拍待提供",
+    "image": "assets/ai/pasta.jpg",
+    "imageAlt": "義麵寶寶的餐食情境 AI 示意圖，非店家實拍",
     "gallery": [],
     "lat": 24.9828233,
     "lng": 121.5097081,
@@ -49,7 +49,9 @@
     "googleVerifiedAt": "2026-11-16",
     "district": "中和區",
     "phoneSource": "Google Maps",
-    "hoursDisplay": "星期一 11:30–20:15\n星期二 11:30–20:15\n星期三 11:30–20:15\n星期四 11:30–20:15\n星期五 11:30–20:15\n星期六 11:30–20:15\n星期日 休息"
+    "hoursDisplay": "星期一 11:30–20:15\n星期二 11:30–20:15\n星期三 11:30–20:15\n星期四 11:30–20:15\n星期五 11:30–20:15\n星期六 11:30–20:15\n星期日 休息",
+    "imageGenerated": true,
+    "imageSource": "OpenAI image generation"
   },
   {
     "id": "sheet-oo-15",
@@ -83,8 +85,8 @@
       "6": "11:50-21:00"
     },
     "closures": [],
-    "image": "",
-    "imageAlt": "店家實拍待提供",
+    "image": "assets/ai/braised.jpg",
+    "imageAlt": "卜乘滷味的餐食情境 AI 示意圖，非店家實拍",
     "gallery": [],
     "lat": 25.0134153,
     "lng": 121.53545589999999,
@@ -101,7 +103,9 @@
     "googleVerifiedAt": "2026-11-16",
     "district": "中正區",
     "phoneSource": "未提供",
-    "hoursDisplay": "星期一 11:50–21:00\n星期二 11:50–21:00\n星期三 11:50–21:00\n星期四 11:50–21:00\n星期五 11:50–21:00\n星期六 11:50–21:00\n星期日 11:50–21:00"
+    "hoursDisplay": "星期一 11:50–21:00\n星期二 11:50–21:00\n星期三 11:50–21:00\n星期四 11:50–21:00\n星期五 11:50–21:00\n星期六 11:50–21:00\n星期日 11:50–21:00",
+    "imageGenerated": true,
+    "imageSource": "OpenAI image generation"
   },
   {
     "id": "sheet1-029",
@@ -135,8 +139,8 @@
       "6": "17:30-01:00"
     },
     "closures": [],
-    "image": "",
-    "imageAlt": "店家實拍待提供",
+    "image": "assets/ai/snacks.jpg",
+    "imageAlt": "純愛小吃的餐食情境 AI 示意圖，非店家實拍",
     "gallery": [],
     "sourceSheet": "OO",
     "offerSource": "OO 優惠內容",
@@ -153,7 +157,9 @@
     "googleVerifiedAt": "2026-11-16",
     "district": "中正區",
     "phoneSource": "Google Maps",
-    "hoursDisplay": "星期一 休息\n星期二 17:30–00:00\n星期三 17:30–00:00\n星期四 17:30–00:00\n星期五 17:30–01:00\n星期六 17:30–01:00\n星期日 17:30–00:00"
+    "hoursDisplay": "星期一 休息\n星期二 17:30–00:00\n星期三 17:30–00:00\n星期四 17:30–00:00\n星期五 17:30–01:00\n星期六 17:30–01:00\n星期日 17:30–00:00",
+    "imageGenerated": true,
+    "imageSource": "OpenAI image generation"
   },
   {
     "id": "sheet-oo-31",
@@ -187,8 +193,8 @@
       "6": "11:00-22:00"
     },
     "closures": [],
-    "image": "",
-    "imageAlt": "店家實拍待提供",
+    "image": "assets/ai/meal.jpg",
+    "imageAlt": "敘方的餐食情境 AI 示意圖，非店家實拍",
     "gallery": [],
     "lat": 25.013889199999998,
     "lng": 121.53376259999999,
@@ -205,7 +211,9 @@
     "googleVerifiedAt": "2026-11-16",
     "district": "中正區",
     "phoneSource": "Google Maps",
-    "hoursDisplay": "星期一 11:00–22:00\n星期二 11:00–22:00\n星期三 11:00–22:00\n星期四 11:00–22:00\n星期五 11:00–22:00\n星期六 11:00–22:00\n星期日 11:00–22:00"
+    "hoursDisplay": "星期一 11:00–22:00\n星期二 11:00–22:00\n星期三 11:00–22:00\n星期四 11:00–22:00\n星期五 11:00–22:00\n星期六 11:00–22:00\n星期日 11:00–22:00",
+    "imageGenerated": true,
+    "imageSource": "OpenAI image generation"
   },
   {
     "id": "sheet-oo-38",
@@ -239,8 +247,8 @@
       "6": "11:00-22:00"
     },
     "closures": [],
-    "image": "",
-    "imageAlt": "店家實拍待提供",
+    "image": "assets/ai/books.jpg",
+    "imageAlt": "誠品書局的閱讀空間 AI 示意圖，非店家實拍",
     "gallery": [],
     "lat": 25.0169975,
     "lng": 121.533042,
@@ -257,7 +265,9 @@
     "googleVerifiedAt": "2026-11-16",
     "district": "大安區",
     "phoneSource": "Google Maps",
-    "hoursDisplay": "星期一 11:00–22:00\n星期二 11:00–22:00\n星期三 11:00–22:00\n星期四 11:00–22:00\n星期五 11:00–22:00\n星期六 11:00–22:00\n星期日 11:00–22:00"
+    "hoursDisplay": "星期一 11:00–22:00\n星期二 11:00–22:00\n星期三 11:00–22:00\n星期四 11:00–22:00\n星期五 11:00–22:00\n星期六 11:00–22:00\n星期日 11:00–22:00",
+    "imageGenerated": true,
+    "imageSource": "OpenAI image generation"
   },
   {
     "id": "jian-yi-mian-huaxin",
@@ -282,8 +292,8 @@
     "closedDays": "",
     "schedule": null,
     "closures": [],
-    "image": "",
-    "imageAlt": "店家實拍待提供",
+    "image": "assets/ai/noodles.jpg",
+    "imageAlt": "見一面的餐食情境 AI 示意圖，非店家實拍",
     "gallery": [],
     "offerType": "店家優惠",
     "sourceSheet": "OO",
@@ -303,7 +313,9 @@
     "phoneSource": "未提供",
     "hoursDisplay": "11:00–21:00",
     "hoursSource": "使用者提供",
-    "hoursUpdatedAt": "2026-11-16"
+    "hoursUpdatedAt": "2026-11-16",
+    "imageGenerated": true,
+    "imageSource": "OpenAI image generation"
   },
   {
     "id": "sheet-oo-57",
@@ -337,8 +349,8 @@
       "6": "12:30-19:30"
     },
     "closures": [],
-    "image": "",
-    "imageAlt": "店家實拍待提供",
+    "image": "assets/ai/dessert.jpg",
+    "imageAlt": "山摺山甜點的餐食情境 AI 示意圖，非店家實拍",
     "gallery": [],
     "lat": 25.016838099999998,
     "lng": 121.532478,
@@ -355,7 +367,9 @@
     "googleVerifiedAt": "2026-11-16",
     "district": "大安區",
     "phoneSource": "Google Maps",
-    "hoursDisplay": "星期一 休息\n星期二 休息\n星期三 12:30–19:30\n星期四 12:30–19:30\n星期五 12:30–19:30\n星期六 12:30–19:30\n星期日 12:30–19:30"
+    "hoursDisplay": "星期一 休息\n星期二 休息\n星期三 12:30–19:30\n星期四 12:30–19:30\n星期五 12:30–19:30\n星期六 12:30–19:30\n星期日 12:30–19:30",
+    "imageGenerated": true,
+    "imageSource": "OpenAI image generation"
   },
   {
     "id": "sheet-oo-65",
@@ -389,8 +403,8 @@
       "6": "11:00-20:30"
     },
     "closures": [],
-    "image": "",
-    "imageAlt": "店家實拍待提供",
+    "image": "assets/ai/soup.jpg",
+    "imageAlt": "肉骨潘的餐食情境 AI 示意圖，非店家實拍",
     "gallery": [],
     "lat": 25.0156951,
     "lng": 121.53281229999999,
@@ -407,7 +421,9 @@
     "googleVerifiedAt": "2026-11-16",
     "district": "中正區",
     "phoneSource": "Google Maps",
-    "hoursDisplay": "星期一 11:30–14:00、17:00–20:30\n星期二 11:30–14:00、17:00–20:30\n星期三 11:30–14:00、17:00–20:30\n星期四 11:30–14:00、17:00–20:30\n星期五 11:30–14:00、17:00–20:30\n星期六 11:00–20:30\n星期日 11:00–20:30"
+    "hoursDisplay": "星期一 11:30–14:00、17:00–20:30\n星期二 11:30–14:00、17:00–20:30\n星期三 11:30–14:00、17:00–20:30\n星期四 11:30–14:00、17:00–20:30\n星期五 11:30–14:00、17:00–20:30\n星期六 11:00–20:30\n星期日 11:00–20:30",
+    "imageGenerated": true,
+    "imageSource": "OpenAI image generation"
   },
   {
     "id": "sheet-oo-67",
@@ -441,8 +457,8 @@
       "6": "11:00-22:30"
     },
     "closures": [],
-    "image": "",
-    "imageAlt": "店家實拍待提供",
+    "image": "assets/ai/tea.jpg",
+    "imageAlt": "蓋厚茶的餐食情境 AI 示意圖，非店家實拍",
     "gallery": [],
     "lat": 25.0156824,
     "lng": 121.53226319999999,
@@ -459,7 +475,9 @@
     "googleVerifiedAt": "2026-11-16",
     "district": "中正區",
     "phoneSource": "Google Maps",
-    "hoursDisplay": "星期一 10:30–22:30\n星期二 10:30–22:30\n星期三 10:30–22:30\n星期四 10:30–22:30\n星期五 10:30–22:30\n星期六 11:00–22:30\n星期日 11:00–22:30"
+    "hoursDisplay": "星期一 10:30–22:30\n星期二 10:30–22:30\n星期三 10:30–22:30\n星期四 10:30–22:30\n星期五 10:30–22:30\n星期六 11:00–22:30\n星期日 11:00–22:30",
+    "imageGenerated": true,
+    "imageSource": "OpenAI image generation"
   },
   {
     "id": "sheet-oo-69",
@@ -493,8 +511,8 @@
       "6": ""
     },
     "closures": [],
-    "image": "",
-    "imageAlt": "店家實拍待提供",
+    "image": "assets/ai/hot-braised.jpg",
+    "imageAlt": "鼎豐加熱滷味的餐食情境 AI 示意圖，非店家實拍",
     "gallery": [],
     "lat": 25.012047499999998,
     "lng": 121.53552309999999,
@@ -511,7 +529,9 @@
     "googleVerifiedAt": "2026-11-16",
     "district": "中正區",
     "phoneSource": "Google Maps",
-    "hoursDisplay": "星期一 15:00–00:30\n星期二 15:00–00:30\n星期三 15:00–00:30\n星期四 15:00–00:30\n星期五 15:00–00:30\n星期六 休息\n星期日 15:00–00:30"
+    "hoursDisplay": "星期一 15:00–00:30\n星期二 15:00–00:30\n星期三 15:00–00:30\n星期四 15:00–00:30\n星期五 15:00–00:30\n星期六 休息\n星期日 15:00–00:30",
+    "imageGenerated": true,
+    "imageSource": "OpenAI image generation"
   },
   {
     "id": "sheet-oo-71",
@@ -537,8 +557,8 @@
     "closedDays": "",
     "schedule": null,
     "closures": [],
-    "image": "",
-    "imageAlt": "店家實拍待提供",
+    "image": "assets/ai/breakfast.jpg",
+    "imageAlt": "泰好早的餐食情境 AI 示意圖，非店家實拍",
     "gallery": [],
     "lat": 25.0144679,
     "lng": 121.534272,
@@ -555,7 +575,9 @@
     "googleVerifiedAt": "2026-11-16",
     "district": "中正區",
     "phoneSource": "Google Maps",
-    "hoursDisplay": "Google Maps 未提供營業時間"
+    "hoursDisplay": "Google Maps 未提供營業時間",
+    "imageGenerated": true,
+    "imageSource": "OpenAI image generation"
   },
   {
     "id": "sheet-oo-76",
@@ -589,8 +611,8 @@
       "6": "16:30-23:30"
     },
     "closures": [],
-    "image": "",
-    "imageAlt": "店家實拍待提供",
+    "image": "assets/ai/wheelcakes.jpg",
+    "imageAlt": "umai我賣車輪餅(公館夜市)的餐食情境 AI 示意圖，非店家實拍",
     "gallery": [],
     "sourceSheet": "OO",
     "offerSource": "OO 優惠內容",
@@ -607,7 +629,9 @@
     "googleVerifiedAt": "2026-11-16",
     "district": "中正區",
     "phoneSource": "Google Maps",
-    "hoursDisplay": "星期一 16:30–23:30\n星期二 16:30–23:30\n星期三 16:30–23:30\n星期四 16:30–23:30\n星期五 16:30–23:30\n星期六 16:30–23:30\n星期日 16:30–23:30"
+    "hoursDisplay": "星期一 16:30–23:30\n星期二 16:30–23:30\n星期三 16:30–23:30\n星期四 16:30–23:30\n星期五 16:30–23:30\n星期六 16:30–23:30\n星期日 16:30–23:30",
+    "imageGenerated": true,
+    "imageSource": "OpenAI image generation"
   },
   {
     "id": "oo-tower-lucky",
@@ -642,8 +666,8 @@
       "6": "10:00-21:00"
     },
     "closures": [],
-    "image": "",
-    "imageAlt": "店家實拍待提供",
+    "image": "assets/ai/cafe.jpg",
+    "imageAlt": "Tower Lucky的餐食情境 AI 示意圖，非店家實拍",
     "gallery": [],
     "googleName": "Tower Lucky塔吉節慶蛋糕_永和總店",
     "googlePlaceId": "ChIJGXULbOCpQjQR-42BiFYRIP0",
@@ -659,7 +683,9 @@
     "district": "永和區",
     "phoneSource": "Google Maps",
     "hoursDisplay": "星期一 07:30–21:00\n星期二 07:30–21:00\n星期三 07:30–21:00\n星期四 07:30–21:00\n星期五 07:30–21:00\n星期六 10:00–21:00\n星期日 10:00–21:00",
-    "branchNote": "地點資料為永和總店；學生優惠適用分店尚待學生會確認。"
+    "branchNote": "地點資料為永和總店；學生優惠適用分店尚待學生會確認。",
+    "imageGenerated": true,
+    "imageSource": "OpenAI image generation"
   },
   {
     "id": "oo-one-tingzhou",
@@ -694,8 +720,8 @@
       "6": "00:00-24:00"
     },
     "closures": [],
-    "image": "",
-    "imageAlt": "店家實拍待提供",
+    "image": "assets/ai/boardgames.jpg",
+    "imageAlt": "One桌遊 汀州店的桌遊情境 AI 示意圖，非店家實拍",
     "gallery": [],
     "lat": 25.0271917,
     "lng": 121.5104585,
@@ -710,6 +736,8 @@
     "googleVerifiedAt": "2026-11-16",
     "district": "中正區",
     "phoneSource": "Google Maps",
-    "hoursDisplay": "星期一 24 小時營業\n星期二 24 小時營業\n星期三 24 小時營業\n星期四 24 小時營業\n星期五 24 小時營業\n星期六 24 小時營業\n星期日 24 小時營業"
+    "hoursDisplay": "星期一 24 小時營業\n星期二 24 小時營業\n星期三 24 小時營業\n星期四 24 小時營業\n星期五 24 小時營業\n星期六 24 小時營業\n星期日 24 小時營業",
+    "imageGenerated": true,
+    "imageSource": "OpenAI image generation"
   }
 ]
