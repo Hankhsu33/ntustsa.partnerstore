@@ -1,0 +1,13 @@
+const fs=require('fs'),vm=require('vm'),assert=require('node:assert/strict');
+const rows={Reviews:[Array(10).fill('header')],Wishes:[Array(10).fill('header')]},cache=new Map();
+const sheets=Object.fromEntries(Object.entries(rows).map(([name,r])=>[name,{getLastRow:()=>r.length,getRange:(start,col,n)=>({getValues:()=>r.slice(start-1,start-1+n)}),appendRow:row=>r.push(row)}]));
+const ctx=vm.createContext({SpreadsheetApp:{openById:()=>({getSheetByName:n=>sheets[n]})},LockService:{getScriptLock:()=>({waitLock(){},releaseLock(){}})},CacheService:{getScriptCache:()=>({get:k=>cache.get(k),put:(k,v)=>cache.set(k,v)})},Utilities:{getUuid:()=> 'test-id'},Date});
+vm.runInContext(fs.readFileSync('apps-script/Code.gs','utf8'),ctx);
+const p={kind:'review',nickname:'=formula',content:'<script>alert(1)</script>',requestId:'request-0000000001',clientId:'client-0000000001',storeId:'jian-yi-mian-huaxin',rating:5};
+assert.throws(()=>ctx.submitCommunity({...p,rating:6}));assert.throws(()=>ctx.submitCommunity({...p,storeId:'fake'}));assert.throws(()=>ctx.submitCommunity({...p,website:'bot'}));
+assert.equal(ctx.submitCommunity(p).ok,true);assert.equal(rows.Reviews[1][2],'pending');assert.equal(rows.Reviews[1][5],"'=formula");assert.equal(ctx.getCommunity().reviews.length,0);
+ctx.submitCommunity(p);assert.equal(rows.Reviews.length,2);assert.throws(()=>ctx.submitCommunity({...p,requestId:'request-0000000002'}));
+rows.Reviews[1][2]='approved';assert.equal(ctx.getCommunity().reviews.length,1);rows.Reviews[1][2]='hidden';assert.equal(ctx.getCommunity().reviews.length,0);
+cache.clear();assert.equal(ctx.submitCommunity({...p,kind:'wish',storeId:'',type:'網站建議',requestId:'request-0000000003'}).ok,true);assert.equal(rows.Wishes.length,2);assert.throws(()=>ctx.submitCommunity({...p,kind:'wish',type:'invalid'}));
+const html=fs.readFileSync('apps-script/community.html','utf8');new vm.Script(html.match(/<script>([\s\S]*?)<\/script>/)[1]);
+console.log('PASS: validation, moderation, formula escaping, idempotency, rate limit, wish submission, frontend syntax');
