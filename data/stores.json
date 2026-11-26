@@ -322,8 +322,8 @@
     "closedDays": "",
     "schedule": null,
     "closures": [],
-    "image": "",
-    "imageAlt": "",
+    "image": "assets/ai/chicken-rice.jpg",
+    "imageAlt": "泰式椒麻雞飯 AI 示意圖，非店家實拍",
     "gallery": [],
     "offerType": "店家優惠",
     "sourceSheet": "OO",
@@ -344,13 +344,13 @@
     "hoursDisplay": "11:00–21:00",
     "hoursSource": "使用者提供",
     "hoursUpdatedAt": "2026-11-16",
-    "imageGenerated": false,
+    "imageGenerated": true,
     "imageSource": "OpenAI image generation",
     "imageReview": {
       "date": "2026-11-26",
       "source": "",
-      "note": "未找到可對應地址的可靠菜單；撤下牛肉麵圖",
-      "status": "withheld"
+      "note": "使用者確認販售品項：泰式椒麻雞飯；圖片僅為同品項示意",
+      "status": "user-confirmed"
     }
   },
   {
@@ -445,8 +445,8 @@
       "6": "11:00-20:30"
     },
     "closures": [],
-    "image": "",
-    "imageAlt": "",
+    "image": "assets/ai/bak-kut-teh.jpg",
+    "imageAlt": "巴生肉骨茶 AI 示意圖，非店家實拍",
     "gallery": [],
     "lat": 25.0156951,
     "lng": 121.53281229999999,
@@ -464,13 +464,13 @@
     "district": "中正區",
     "phoneSource": "Google Maps",
     "hoursDisplay": "星期一 11:30–14:00、17:00–20:30\n星期二 11:30–14:00、17:00–20:30\n星期三 11:30–14:00、17:00–20:30\n星期四 11:30–14:00、17:00–20:30\n星期五 11:30–14:00、17:00–20:30\n星期六 11:00–20:30\n星期日 11:00–20:30",
-    "imageGenerated": false,
+    "imageGenerated": true,
     "imageSource": "OpenAI image generation",
     "imageReview": {
       "date": "2026-11-26",
       "source": "https://rlaidiary.com/bakkutpan/",
-      "note": "巴生肉骨茶；原新加坡白胡椒肉骨茶風格不符，撤圖",
-      "status": "withheld"
+      "note": "使用者確認販售品項：巴生肉骨茶；圖片僅為同品項示意",
+      "status": "user-confirmed"
     }
   },
   {
