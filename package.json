@@ -4,7 +4,7 @@
   "scripts": {
     "build": "node scripts/build.cjs",
     "sync": "node scripts/sync.cjs",
-    "check": "node --check assets/app.js && node --check scripts/build.cjs && node --check scripts/sync.cjs && node --check assets/map.js && node --check assets/events.js && node --check assets/clock.js",
+    "check": "node --check assets/app.js && node --check scripts/build.cjs && node --check scripts/sync.cjs && node --check assets/map.js && node --check assets/events.js && node --check assets/clock.js && node --check assets/refresh.js",
     "start": "node scripts/serve.cjs"
   }
 }
