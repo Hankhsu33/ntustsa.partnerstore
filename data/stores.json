@@ -51,7 +51,13 @@
     "phoneSource": "Google Maps",
     "hoursDisplay": "星期一 11:30–20:15\n星期二 11:30–20:15\n星期三 11:30–20:15\n星期四 11:30–20:15\n星期五 11:30–20:15\n星期六 11:30–20:15\n星期日 休息",
     "imageGenerated": true,
-    "imageSource": "OpenAI image generation"
+    "imageSource": "OpenAI image generation",
+    "imageReview": {
+      "date": "2026-11-26",
+      "source": "https://www.foodpanda.com.tw/restaurant/c1i8/yi-mian-bao-bao-zhong-he-zhong-xiao-dian-c1i8",
+      "note": "菜單含蕃茄義大利麵系列；保留同類示意圖，非同款實拍",
+      "status": "category-matched"
+    }
   },
   {
     "id": "sheet-oo-15",
@@ -105,7 +111,13 @@
     "phoneSource": "未提供",
     "hoursDisplay": "星期一 11:50–21:00\n星期二 11:50–21:00\n星期三 11:50–21:00\n星期四 11:50–21:00\n星期五 11:50–21:00\n星期六 11:50–21:00\n星期日 11:50–21:00",
     "imageGenerated": true,
-    "imageSource": "OpenAI image generation"
+    "imageSource": "OpenAI image generation",
+    "imageReview": {
+      "date": "2026-11-26",
+      "source": "https://www.joybon.net/shop?id=995",
+      "note": "滷味、菇類、蔬菜；保留品類示意",
+      "status": "category-matched"
+    }
   },
   {
     "id": "sheet1-029",
@@ -139,8 +151,8 @@
       "6": "17:30-01:00"
     },
     "closures": [],
-    "image": "assets/ai/snacks.jpg",
-    "imageAlt": "純愛小吃的餐食情境 AI 示意圖，非店家實拍",
+    "image": "",
+    "imageAlt": "",
     "gallery": [],
     "sourceSheet": "OO",
     "offerSource": "OO 優惠內容",
@@ -158,13 +170,19 @@
     "district": "中正區",
     "phoneSource": "Google Maps",
     "hoursDisplay": "星期一 休息\n星期二 17:30–00:00\n星期三 17:30–00:00\n星期四 17:30–00:00\n星期五 17:30–01:00\n星期六 17:30–01:00\n星期日 17:30–00:00",
-    "imageGenerated": true,
-    "imageSource": "OpenAI image generation"
+    "imageGenerated": false,
+    "imageSource": "OpenAI image generation",
+    "imageReview": {
+      "date": "2026-11-26",
+      "source": "https://www.ubereats.com/tw/store/公館商圈-純愛小吃部/uRRKvQNTQFGAikqPAby91g",
+      "note": "台式餐酒小吃；無法確認原豆腐飯餐盤，撤圖",
+      "status": "withheld"
+    }
   },
   {
     "id": "sheet-oo-31",
     "name": "敘方",
-    "category": "日常餐食",
+    "category": "咖啡甜點",
     "area": "中正區",
     "address": "100048臺北市中正區水源里汀州路三段132號",
     "phone": "02 2366 0001",
@@ -193,8 +211,8 @@
       "6": "11:00-22:00"
     },
     "closures": [],
-    "image": "assets/ai/meal.jpg",
-    "imageAlt": "敘方的餐食情境 AI 示意圖，非店家實拍",
+    "image": "assets/ai/tea.jpg",
+    "imageAlt": "茶飲 AI 示意圖，非敘方實拍",
     "gallery": [],
     "lat": 25.013889199999998,
     "lng": 121.53376259999999,
@@ -213,7 +231,13 @@
     "phoneSource": "Google Maps",
     "hoursDisplay": "星期一 11:00–22:00\n星期二 11:00–22:00\n星期三 11:00–22:00\n星期四 11:00–22:00\n星期五 11:00–22:00\n星期六 11:00–22:00\n星期日 11:00–22:00",
     "imageGenerated": true,
-    "imageSource": "OpenAI image generation"
+    "imageSource": "OpenAI image generation",
+    "imageReview": {
+      "date": "2026-11-26",
+      "source": "https://www.foodpanda.com.tw/restaurant/o11a/xu-fang-xufang-gong-guan-dian",
+      "note": "茶飲店；原米飯餐盤錯誤，換茶飲",
+      "status": "category-matched"
+    }
   },
   {
     "id": "sheet-oo-38",
@@ -267,7 +291,13 @@
     "phoneSource": "Google Maps",
     "hoursDisplay": "星期一 11:00–22:00\n星期二 11:00–22:00\n星期三 11:00–22:00\n星期四 11:00–22:00\n星期五 11:00–22:00\n星期六 11:00–22:00\n星期日 11:00–22:00",
     "imageGenerated": true,
-    "imageSource": "OpenAI image generation"
+    "imageSource": "OpenAI image generation",
+    "imageReview": {
+      "date": "2026-11-26",
+      "source": "https://meet.eslite.com/tw/tc/store/20180220013",
+      "note": "官方確認書店；閱讀情境非實際裝潢",
+      "status": "category-matched"
+    }
   },
   {
     "id": "jian-yi-mian-huaxin",
@@ -292,8 +322,8 @@
     "closedDays": "",
     "schedule": null,
     "closures": [],
-    "image": "assets/ai/noodles.jpg",
-    "imageAlt": "見一面的餐食情境 AI 示意圖，非店家實拍",
+    "image": "",
+    "imageAlt": "",
     "gallery": [],
     "offerType": "店家優惠",
     "sourceSheet": "OO",
@@ -314,8 +344,14 @@
     "hoursDisplay": "11:00–21:00",
     "hoursSource": "使用者提供",
     "hoursUpdatedAt": "2026-11-16",
-    "imageGenerated": true,
-    "imageSource": "OpenAI image generation"
+    "imageGenerated": false,
+    "imageSource": "OpenAI image generation",
+    "imageReview": {
+      "date": "2026-11-26",
+      "source": "",
+      "note": "未找到可對應地址的可靠菜單；撤下牛肉麵圖",
+      "status": "withheld"
+    }
   },
   {
     "id": "sheet-oo-57",
@@ -349,8 +385,8 @@
       "6": "12:30-19:30"
     },
     "closures": [],
-    "image": "assets/ai/dessert.jpg",
-    "imageAlt": "山摺山甜點的餐食情境 AI 示意圖，非店家實拍",
+    "image": "",
+    "imageAlt": "",
     "gallery": [],
     "lat": 25.016838099999998,
     "lng": 121.532478,
@@ -368,8 +404,14 @@
     "district": "大安區",
     "phoneSource": "Google Maps",
     "hoursDisplay": "星期一 休息\n星期二 休息\n星期三 12:30–19:30\n星期四 12:30–19:30\n星期五 12:30–19:30\n星期六 12:30–19:30\n星期日 12:30–19:30",
-    "imageGenerated": true,
-    "imageSource": "OpenAI image generation"
+    "imageGenerated": false,
+    "imageSource": "OpenAI image generation",
+    "imageReview": {
+      "date": "2026-11-26",
+      "source": "https://cutaway.com.tw/makeOrder.php?sid=2998",
+      "note": "查到千層蛋糕與可頌；原草莓海綿蛋糕加水果塔未確認，撤圖",
+      "status": "withheld"
+    }
   },
   {
     "id": "sheet-oo-65",
@@ -403,8 +445,8 @@
       "6": "11:00-20:30"
     },
     "closures": [],
-    "image": "assets/ai/soup.jpg",
-    "imageAlt": "肉骨潘的餐食情境 AI 示意圖，非店家實拍",
+    "image": "",
+    "imageAlt": "",
     "gallery": [],
     "lat": 25.0156951,
     "lng": 121.53281229999999,
@@ -422,8 +464,14 @@
     "district": "中正區",
     "phoneSource": "Google Maps",
     "hoursDisplay": "星期一 11:30–14:00、17:00–20:30\n星期二 11:30–14:00、17:00–20:30\n星期三 11:30–14:00、17:00–20:30\n星期四 11:30–14:00、17:00–20:30\n星期五 11:30–14:00、17:00–20:30\n星期六 11:00–20:30\n星期日 11:00–20:30",
-    "imageGenerated": true,
-    "imageSource": "OpenAI image generation"
+    "imageGenerated": false,
+    "imageSource": "OpenAI image generation",
+    "imageReview": {
+      "date": "2026-11-26",
+      "source": "https://rlaidiary.com/bakkutpan/",
+      "note": "巴生肉骨茶；原新加坡白胡椒肉骨茶風格不符，撤圖",
+      "status": "withheld"
+    }
   },
   {
     "id": "sheet-oo-67",
@@ -477,7 +525,13 @@
     "phoneSource": "Google Maps",
     "hoursDisplay": "星期一 10:30–22:30\n星期二 10:30–22:30\n星期三 10:30–22:30\n星期四 10:30–22:30\n星期五 10:30–22:30\n星期六 11:00–22:30\n星期日 11:00–22:30",
     "imageGenerated": true,
-    "imageSource": "OpenAI image generation"
+    "imageSource": "OpenAI image generation",
+    "imageReview": {
+      "date": "2026-11-26",
+      "source": "https://www.foodpanda.com.tw/restaurant/g8g8/gai-hou-cha-tai-da-gong-guan-dian-g8g8",
+      "note": "菜單含茗茶、奶茶；保留茶飲示意",
+      "status": "category-matched"
+    }
   },
   {
     "id": "sheet-oo-69",
@@ -531,7 +585,13 @@
     "phoneSource": "Google Maps",
     "hoursDisplay": "星期一 15:00–00:30\n星期二 15:00–00:30\n星期三 15:00–00:30\n星期四 15:00–00:30\n星期五 15:00–00:30\n星期六 休息\n星期日 15:00–00:30",
     "imageGenerated": true,
-    "imageSource": "OpenAI image generation"
+    "imageSource": "OpenAI image generation",
+    "imageReview": {
+      "date": "2026-11-26",
+      "source": "https://www.ubereats.com/tw-en/store/鼎豐加熱滷味/aE3FIfANVhqsMYQAQ5w15A",
+      "note": "熱滷味與青菜；保留品類示意",
+      "status": "category-matched"
+    }
   },
   {
     "id": "sheet-oo-71",
@@ -557,8 +617,8 @@
     "closedDays": "",
     "schedule": null,
     "closures": [],
-    "image": "assets/ai/breakfast.jpg",
-    "imageAlt": "泰好早的餐食情境 AI 示意圖，非店家實拍",
+    "image": "",
+    "imageAlt": "",
     "gallery": [],
     "lat": 25.0144679,
     "lng": 121.534272,
@@ -576,8 +636,14 @@
     "district": "中正區",
     "phoneSource": "Google Maps",
     "hoursDisplay": "Google Maps 未提供營業時間",
-    "imageGenerated": true,
-    "imageSource": "OpenAI image generation"
+    "imageGenerated": false,
+    "imageSource": "OpenAI image generation",
+    "imageReview": {
+      "date": "2026-11-26",
+      "source": "https://www.foodpanda.com.tw/restaurant/jqg0/tai-hao-zao-zao-wu-can-jqg0",
+      "note": "早午餐；原吐司炒蛋沙拉組合未確認，撤圖",
+      "status": "withheld"
+    }
   },
   {
     "id": "sheet-oo-76",
@@ -631,7 +697,13 @@
     "phoneSource": "Google Maps",
     "hoursDisplay": "星期一 16:30–23:30\n星期二 16:30–23:30\n星期三 16:30–23:30\n星期四 16:30–23:30\n星期五 16:30–23:30\n星期六 16:30–23:30\n星期日 16:30–23:30",
     "imageGenerated": true,
-    "imageSource": "OpenAI image generation"
+    "imageSource": "OpenAI image generation",
+    "imageReview": {
+      "date": "2026-11-26",
+      "source": "https://www.ubereats.com/tw/store/umai我賣車輪餅/N3HWrWLxQKKdKQhYMIV4RA",
+      "note": "菜單含紅豆、奶油車輪餅；保留同口味示意",
+      "status": "category-matched"
+    }
   },
   {
     "id": "oo-tower-lucky",
@@ -666,8 +738,8 @@
       "6": "10:00-21:00"
     },
     "closures": [],
-    "image": "assets/ai/cafe.jpg",
-    "imageAlt": "Tower Lucky的餐食情境 AI 示意圖，非店家實拍",
+    "image": "",
+    "imageAlt": "",
     "gallery": [],
     "googleName": "Tower Lucky塔吉節慶蛋糕_永和總店",
     "googlePlaceId": "ChIJGXULbOCpQjQR-42BiFYRIP0",
@@ -684,8 +756,14 @@
     "phoneSource": "Google Maps",
     "hoursDisplay": "星期一 07:30–21:00\n星期二 07:30–21:00\n星期三 07:30–21:00\n星期四 07:30–21:00\n星期五 07:30–21:00\n星期六 10:00–21:00\n星期日 10:00–21:00",
     "branchNote": "地點資料為永和總店；學生優惠適用分店尚待學生會確認。",
-    "imageGenerated": true,
-    "imageSource": "OpenAI image generation"
+    "imageGenerated": false,
+    "imageSource": "OpenAI image generation",
+    "imageReview": {
+      "date": "2026-11-26",
+      "source": "https://www.towerlucky.com/contact",
+      "note": "官方為烘焙蛋糕店；咖啡配可麗露未確認，撤圖",
+      "status": "withheld"
+    }
   },
   {
     "id": "oo-one-tingzhou",
@@ -738,6 +816,12 @@
     "phoneSource": "Google Maps",
     "hoursDisplay": "星期一 24 小時營業\n星期二 24 小時營業\n星期三 24 小時營業\n星期四 24 小時營業\n星期五 24 小時營業\n星期六 24 小時營業\n星期日 24 小時營業",
     "imageGenerated": true,
-    "imageSource": "OpenAI image generation"
+    "imageSource": "OpenAI image generation",
+    "imageReview": {
+      "date": "2026-11-26",
+      "source": "https://firenews.com.tw/2026/01/24/one桌遊-全台連鎖進軍台北市！汀州店以「城市療癒/",
+      "note": "桌遊及麻將空間；保留非特定遊戲的桌遊情境",
+      "status": "category-matched"
+    }
   }
 ]
